@@ -87,7 +87,7 @@ blueprint:
       selector:
         color_temp:
           unit: kelvin
-      default: 2500
+      default: 1700
       name: ☀️ Starting Kelvin
     target_kelvin_1:
       description: Target Kelvin value (cold) for the end of the first run
